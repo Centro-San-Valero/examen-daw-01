@@ -11,13 +11,14 @@ body, input {
   }
   
   h1, h2, p, input, a {
-    font-weight: 300;
+    font-weight: 200;
     margin: 0;
   }
   
   h1 {
-    color: #6ba3bd;
+    color: #8e7cc3;
     font-size: 3.5em;
+    text-align: center;
   }
   
   h2 {
